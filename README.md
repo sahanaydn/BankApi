@@ -1,6 +1,6 @@
 # Bank-API with express js.
 
-A nice project with a nice description
+
 
 ---
 ## Requirements
